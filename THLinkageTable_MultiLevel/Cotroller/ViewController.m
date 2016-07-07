@@ -7,9 +7,9 @@
 //
 
 #import "ViewController.h"
-#import "THLinkageTableBasicView.h"
 #import "CBAutoScrollLabel.h"
 #import "THAddressViewModel.h"
+#import "THLinkageTableBasicView.h"
 
 @interface ViewController ()
 @property (nonatomic,weak) THLinkageTableBasicView *addressTab;
